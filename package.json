@@ -1,0 +1,22 @@
+{
+  "name": "knnect_commons",
+  "version": "1.0.0",
+  "description": "common files for knnect apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmkasun/testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "tmkasun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmkasun/testing/issues"
+  },
+  "homepage": "https://github.com/tmkasun/testing#readme"
+}
